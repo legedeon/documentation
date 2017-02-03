@@ -18,5 +18,8 @@ ex: git@github.com:legedeon/documentation.git
 cat .git/config
 donne la config git avec l'origine et le master et les branches
 
+## Ajouter un collaborateur
+Dans Settings Collaborator
+
 ## Liens
 https://help.github.com/articles/connecting-to-github-with-ssh/
