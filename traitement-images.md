@@ -12,6 +12,9 @@ Pour modifier les niveux de tons dans une image: Couleurs / Niveaux
 On voit le graphiuque du nombre de pixels par ton
 On peut ajuster pour enlever les tons oui il n'y a pas beaucoup de pîxels
 
+## Rognage, recadrage
+Utiliser l'option : image > changer la taille du caneva
+
 ## Liens
 
 ### DPI
