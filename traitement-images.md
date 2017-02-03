@@ -8,6 +8,6 @@ donc on fait un zoom de 400 %
 Si on veux imprimer une image de 72 dpi correctement on va reduire sa taille de 4 avant impression
 
 # Liens
-> https://fr.wikipedia.org/wiki/Point_par_pouce
-> http://blog.arnaudfrich.com/photo/pour-en-finir-avec-les-72-dpi/
-> sebsauvage.net/comprendre/dpi/
+> https://fr.wikipedia.org/wiki/Point_par_pouce  
+> http://blog.arnaudfrich.com/photo/pour-en-finir-avec-les-72-dpi/  
+> http://sebsauvage.net/comprendre/dpi/  
