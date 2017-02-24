@@ -1,1 +1,1 @@
-## pour bloquer les pubs, instqller ublock
+## pour bloquer les pubs, installer ublock
