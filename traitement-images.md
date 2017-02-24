@@ -1,5 +1,5 @@
 ## DPI
-Sur un ecran on a des images a 98 dpi
+Sur un ecran on a des images avec un resolution de 98 dpi
 Une impression se fait a 266 dpi
 
 Quand on a une image a 98 dpi si on veux voir a l'ecran comment elle va apparaitre en impression:
@@ -8,8 +8,8 @@ donc on fait un zoom de 400 %
 Si on veux imprimer une image de 98 dpi correctement on va reduire sa taille de 4 avant impression
 
 ## Modifier la taille de l'image (pour qu'elle soit adaptee au site internet: par ex les 8 photos de la page d'accueil)
-Image / Echelle et taille de l'image
-- 1 - Passer l'image en 98 dpi (car on veux une image pour l'ecran). ATTENTION c'est obligatoire car ca ne sers a rien de reduire une taille d'image sans reduire son contenu en dpi. On aurait une image reduite mais avec un poids inutilement important. 
+Sur GIMP Image / Echelle et taille de l'image
+- 1 - Passer l'image en 98 dpi en changeant la resolution (pixel/inch) (car on veux une image pour l'ecran). ATTENTION c'est obligatoire car ca ne sers a rien de reduire une taille d'image sans reduire son contenu en dpi. On aurait une image reduite mais avec un poids inutilement important. 
 - 2 - Changer la largeur ou la longueur, laisser du rab. Par ex: modif de 600 vers 400 en largeur va donner 320 au lieu des 300 souhaites.
 - 3 - On ajuste la taille avec le canevas. Par ex: on ajuste le canevas pour passer de 320 a 300.
 - 4 - Exporte l'image en jpg avec une qualite acceptable entre 60 et 80 
