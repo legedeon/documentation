@@ -12,3 +12,6 @@ $ python -m SimpleHTTPServer > /dev/null 2>&1
 
 ## Utiliser le serveur web
 Pour se connecter, on tape dans l'url du browser http://localhost:8000/
+
+Rappel 127.0.0.1 est par convention un alias de l'ip du pc
+localhost est le domaine attache
