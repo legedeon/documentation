@@ -35,3 +35,9 @@ Utiliser l'option : image > Taille du canevas
 
 ### Niveaux
 > [niveaux](http://www.ordissinaute.fr/ordissimo/fiche-pratique/2016-11-09-gimp-ameliorer-le-contraste-la-luminosite-et-les-couleurs-d-une-photo)
+
+### Optimisation d'images
+Avec jpegoptim:
+find -type f -name "*.jpg" | xargs jpegoptim --strip-all
+Avec optipng:
+find -type f -name "*.png" | xargs optipng -il -nc -o7 -full
