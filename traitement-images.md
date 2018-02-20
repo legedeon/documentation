@@ -41,3 +41,5 @@ Avec jpegoptim:
 find -type f -name "\*.jpg" | xargs jpegoptim --strip-all  
 Avec optipng:  
 find -type f -name "\*.png" | xargs optipng -i1 -nc -o7 -full  
+Avec convert:  
+convert screen3.jpg -sampling-factor 4:2:0 -strip -resize 247x445 -quality 75 -interlace JPEG -colorspace sRGB screen3.jpg  
