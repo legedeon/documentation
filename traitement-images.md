@@ -38,6 +38,6 @@ Utiliser l'option : image > Taille du canevas
 
 ### Optimisation d'images
 Avec jpegoptim:  
-find -type f -name "*.jpg" | xargs jpegoptim --strip-all  
+find -type f -name "\*.jpg" | xargs jpegoptim --strip-all  
 Avec optipng:  
-find -type f -name "*.png" | xargs optipng -i1 -nc -o7 -full  
+find -type f -name "\*.png" | xargs optipng -i1 -nc -o7 -full  
