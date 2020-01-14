@@ -12,4 +12,6 @@ SemRush permet de ...
 
 GoogleAds permet de voir si une requette est utilisée
 
+Google Search Console permet de connaitre le CTR, c'est a dire, pour une requette donnée, le nombre de clics vers notre lien sur 100 requettes. 
+
 
