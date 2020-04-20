@@ -2,13 +2,18 @@
 
 # Page product
 https://www.hotelgedeon.com/product/
+
 ## (il faudra renommer product en venteaemporter)
 https://github.com/legedeon/hotelgedeon.com/tree/master/_product
+
 https://github.com/legedeon/hotelgedeon.com/edit/master/_product/salade-caesar.md
 
 chaque partie de la page venteaemporter est dans : https://github.com/legedeon/hotelgedeon.com/tree/master/_includes
+
 la page principale : https://github.com/legedeon/hotelgedeon.com/blob/master/_layouts/default.html 
+
 Les photos sont là : https://github.com/legedeon/hotelgedeon.com/tree/master/_product/mini-tof
+
 Et devraient toujours être publiées avec une taille de 292x292 px (modifié) 
 
 ## imagemagick : pour modifier la taille de toutes les images d'un repertoire
